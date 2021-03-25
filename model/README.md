@@ -1,5 +1,5 @@
 #Overview
-This module is about "model" which including as follows:
+This is Model module
 
 Variable:
 * id - unique id for the customer

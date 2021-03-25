@@ -1,5 +1,5 @@
 #Overview
-This module is about "customer service" which including the method as follows:
+This is Customer Service module
 * getAllCustomers - list of all customers
 * createCustomer - create a customer
 * updateCustomer - update a customer
